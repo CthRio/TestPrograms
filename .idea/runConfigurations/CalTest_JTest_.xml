@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CalTest[JTest]" type="JUnit" factoryName="JUnit" singleton="false" show_console_on_std_out="true">
+    <output_file path="$PROJECT_DIR$/outlogs/JTest_T1.txt" is_save="true" />
+    <module name="TestPrograms" />
+    <useClassPathOnly />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.ch01.testprogram.T1.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="PACKAGE_NAME" value="com.ch01.testprogram.T1" />
+    <option name="MAIN_CLASS_NAME" value="com.ch01.testprogram.T1.CalTest" />
+    <option name="METHOD_NAME" value="maina" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
